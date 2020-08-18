@@ -1,2 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
-/*  Put your CSS Here */
+.main {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  box-sizing: border-box;
+  border: 2px solid maroon;
+}
+
+h1 {
+  margin: 25px 25px 25px 10px;
+}
+
+img {
+  border: 5px inset goldenrod;
+  margin: 10px;
+}
+
+#text {
+  margin: 10px;
+  padding: 15px 15px 10px 10px;
+  border: 5px dashed orange;
+}
